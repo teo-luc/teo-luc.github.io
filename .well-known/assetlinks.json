@@ -1,0 +1,18 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+	"namespace": "android_app",
+	"package_name": "co.tamara.user",
+	"sha256_cert_fingerprints":
+	["5B:B7:16:2B:56:81:4D:FE:EF:23:BE:96:A8:E9:77:30:39:21:AE:A8:88:1D:19:D6:DB:D6:D0:FA:43:0E:1E:A2"]
+  }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+	"namespace": "android_app",
+	"package_name": "co.tamara.user.stg",
+	"sha256_cert_fingerprints":
+	["5B:B7:16:2B:56:81:4D:FE:EF:23:BE:96:A8:E9:77:30:39:21:AE:A8:88:1D:19:D6:DB:D6:D0:FA:43:0E:1E:A2"]
+  }
+}]
